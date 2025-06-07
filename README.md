@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Tests](https://github.com/seu-usuario/projeto-viabilidade-ml/actions/workflows/python-app.yml/badge.svg)
+![Tests](https://github.com/ThiagoJFreitas/projeto-viabilidade-ml/actions/workflows/python-app.yml/badge.svg)
 
 Este projeto utiliza Machine Learning para prever a **viabilidade de projetos** com base em investimento, retorno esperado e impacto social. Ideal para aprender como aplicar regressão logística, escalonamento e persistência de modelos em Python.
 
@@ -36,7 +36,7 @@ projeto-viabilidade-ml/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-viabilidade-ml.git
+git clone https://github.com/ThiagoJFreitas/projeto-viabilidade-ml.git
 cd projeto-viabilidade-ml
 ```
 
