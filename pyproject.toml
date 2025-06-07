@@ -1,0 +1,22 @@
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "viabilidade-modelo"
+version = "0.1.0"
+description = "Projeto para previsão de viabilidade de projetos usando regressão logística e ML."
+authors = [
+  {name = "Thiago Freitas"}
+]
+requires-python = ">=3.8"
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "joblib"
+]
+
+[project.urls]
+Homepage = "https://github.com/seu-usuario/projeto-viabilidade-ml"
