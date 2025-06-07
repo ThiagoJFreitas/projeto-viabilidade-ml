@@ -31,6 +31,10 @@ jobs:
         pip install -r requirements.txt
         pip install pytest
 
+    - name: Instalar o pacote local
+      run: |
+           pip install .
+
     - name: Executar testes
       run: |
         pytest tests/
